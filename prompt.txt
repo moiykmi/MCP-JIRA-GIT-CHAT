@@ -1,0 +1,1 @@
+"Aqui van los prompt que sirve para realizar consultas en claude o en una agente AI"
